@@ -1,9 +1,9 @@
-package test;
+package test.java;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
-import main.Calculator;
+import main.java.Calculator;
 
 public class CalculatorTest {
 
