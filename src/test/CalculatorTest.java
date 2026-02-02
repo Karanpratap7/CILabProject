@@ -1,7 +1,9 @@
-package com.muj.ci;
+package test;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
+
+import main.Calculator;
 
 public class CalculatorTest {
 
